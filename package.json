@@ -1,0 +1,29 @@
+{
+  "name": "typescript-deep-dive",
+  "version": "1.0.0",
+  "description": "Code samples from TypeScript Deep Dive",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "1.5.0",
+    "@typescript-eslint/parser": "1.5.0",
+    "eslint": "5.15.3",
+    "eslint-config-prettier": "4.1.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "prettier": "1.16.4",
+    "typescript": "3.4.0-dev.20190323"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9andresc/typescript-deep-dive.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/9andresc/typescript-deep-dive/issues"
+  },
+  "homepage": "https://github.com/9andresc/typescript-deep-dive#readme"
+}

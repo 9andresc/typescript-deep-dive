@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# typescript generated files
+typings/
+out/*.js
+*.map
