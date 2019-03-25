@@ -1,8 +1,16 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "alwaysStrict": true,
     "module": "commonjs",
+    "noImplicitAny": true,
+    "noImplicitThis": true,
     "outDir": "out",
-    "sourceMap": true
+    "sourceMap": true,
+    "strict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "target": "es5"
   }
 }
