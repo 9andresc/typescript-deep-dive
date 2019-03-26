@@ -2,6 +2,11 @@
   "name": "typescript-deep-dive",
   "version": "1.0.0",
   "description": "Code samples from TypeScript Deep Dive",
+  "dependencies": {
+    "@types/big.js": "4.0.5",
+    "big.js": "5.2.2",
+    "deep-equal": "1.0.1"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "1.5.0",
     "@typescript-eslint/parser": "1.5.0",
